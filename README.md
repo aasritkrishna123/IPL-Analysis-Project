@@ -124,3 +124,9 @@ The data was cleaned, modeled, and visualized using **Power BI**.
 
 ---
 
+📸 Dashboard Preview
+
+![IPL Analysis Dashboard](https://github.com/aasritkrishna123/IPL-Analysis-Project/blob/main/Screenshot%202026-01-05%20183640.png)
+
+---
+
